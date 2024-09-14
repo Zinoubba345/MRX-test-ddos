@@ -1,4 +1,4 @@
-DEV ZINOU MRX
+#DEV ZINOU MRX
 import random
 import socket
 import threading
